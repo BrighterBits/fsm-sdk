@@ -71,6 +71,7 @@ export const ALL_DTO_VERSIONS: Readonly<{ [name: string]: number }> = {
   'Translation': 10,
   'UdfMeta': 19,
   'UdfMetaGroup': 10,
+  'UdoValue': 9,
   'UnifiedPerson': 12,
   'UserSyncConfirmation': 14,
   'Warehouse': 16,
