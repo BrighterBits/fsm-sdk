@@ -1,6 +1,6 @@
 {
   "name": "@BrighterBits/fsm-sdk",
-  "version": "2.0.1-bb",
+  "version": "2.0.1-bb2",
   "description": "Node.JS sdk to interface with SAP Field Service Management APIs.",
   "readme": "./README.md",
   "main": "release/index.js",
