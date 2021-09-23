@@ -78,7 +78,7 @@ describe('compatibility', () => {
 
     describe('ALL_DTO_VERSIONS', () => {
         it('should have DTOs', () => {
-            assert.strictEqual(Object.keys(fsm.ALL_DTO_VERSIONS).length, 79);
+            assert.strictEqual(Object.keys(fsm.ALL_DTO_VERSIONS).length, 80);
         });
 
     });
